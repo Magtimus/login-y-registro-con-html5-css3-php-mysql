@@ -2,4 +2,4 @@ En esta ocasión
 Ver pagina DEMO: http://magtimus.pro/proyectos/login-register/
 
 YouTube
-https://www.youtube.com/watch?v=U9MgSspoixI&list=PLAFTVct4TDOYMBW473KBJB8gsE9dDoIC1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U9MgSspoixI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
