@@ -18,5 +18,6 @@ Si eres agradecido puedes pasarte por nuestro canal de YouTube:
 SUSCRIBIRTE Y ACTIVAR LA CAMPANA DE NOTIFICACIONES
 para que no te pierdas de nuestros contenidos
 que casi todos los dias estamos publicando
+
 ♦CANAL DE YOUTUBE:
 https://goo.gl/riugUL
